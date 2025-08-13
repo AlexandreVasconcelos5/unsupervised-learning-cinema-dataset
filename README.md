@@ -1,9 +1,9 @@
-# Análise Não-Supervisionada - Conjunto de Dados Cinema
+# Projeto de Data Science e Análise Não-Supervisionada - Clustering e Deteção de Anomalias em Sessões de Cinema:
 
 ## Resumo
-Neste projeto, realizado no Curso de Especialização Data Science e Análise Não-Supervisionada, integrado na Pós-Graduação em Ciência de Dados para Engenheiros (DaSh) e ao qual foi atribuída a classificação de 19,3 valores, foram aplicadas técnicas de análise não-supervisionada a um conjunto de dados relacionado com o tema Cinema, presente no Kaggle. O seu principal objetivo foi a aquisição de novos conhecimentos relevantes sobre os dados em causa.
-O trabalho compreendeu três partes: data profiling e pré-processamento dos dados, clustering e análise dos valores atípicos. Foram usadas diversas técnicas, tais como a seleção de variáveis, tratamento de valores em falta e de valores atípicos, e utilizados os modelos K-Means e Hierárquico Aglomerativo para a tarefa de clustering, bem como o modelo Local Outlier Factor para a deteção de anomalias. 
-A análise permitiu explorar padrões e desvios no conjunto de dados, contribuindo para uma compreensão aprofundada das variáveis envolvidas.
+Projeto realizado no Curso de Especialização em Data Science e Análise Não-Supervisionada, integrado na Pós-Graduação em Data Science para Engenheiros (DaSh), com a classificação de 19,3 valores.
+Aplicação de técnicas de data profiling, pré-processamento dos dados, clustering (modelos K-Means e Hierárquico Aglomerativo) e deteção de anomalias (modelo Local Outlier Factor) sobre um conjunto de dados do Kaggle, resultando na identificação de padrões e desvios relevantes para compreensão aprofundada das variáveis do dataset.
+Período: 01/2025 a 02/2025
 
 ## Objetivo
 Aplicar métodos de aprendizagem não-supervisionada para descobrir padrões, agrupar sessões de cinema e identificar anomalias, com base em variáveis como o preço do bilhete, capacidade da sala e horário das sessões.
