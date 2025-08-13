@@ -3,7 +3,7 @@
 ## Resumo
 Projeto realizado no Curso de Especialização em Data Science e Análise Não-Supervisionada, integrado na Pós-Graduação em Data Science para Engenheiros (DaSh), com a classificação de 19,3 valores.
 Aplicação de técnicas de data profiling, pré-processamento dos dados, clustering (modelos K-Means e Hierárquico Aglomerativo) e deteção de anomalias (modelo Local Outlier Factor) sobre um conjunto de dados do Kaggle, resultando na identificação de padrões e desvios relevantes para compreensão aprofundada das variáveis do dataset.
-Período: 01/2025 a 02/2025
+Período: 01/2025 a 02/2025.
 
 ## Objetivo
 Aplicar métodos de aprendizagem não-supervisionada para descobrir padrões, agrupar sessões de cinema e identificar anomalias, com base em variáveis como o preço do bilhete, capacidade da sala e horário das sessões.
