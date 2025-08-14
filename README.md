@@ -1,4 +1,4 @@
-# Projeto de Data Science e Análise Não-Supervisionada - Clustering e Deteção de Anomalias em Sessões de Cinema:
+# Projeto de Data Science e Análise Não-Supervisionada - Clustering e Deteção de Anomalias em Sessões de Cinema
 
 ## Resumo
 Projeto realizado no Curso de Especialização em Data Science e Análise Não-Supervisionada, integrado na Pós-Graduação em Data Science para Engenheiros (DaSh), com a classificação de 19,3 valores.
